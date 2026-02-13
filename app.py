@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 
 from langchain_groq import ChatGroq
 from langchain_mcp_adapters.client import MultiServerMCPClient
-from langchain_classic.agents import create_react_agent, AgentExecutor
 from langchain import hub
+from langchain.agents import create_react_agent, AgentExecutor
 
 nest_asyncio.apply()
 load_dotenv()
