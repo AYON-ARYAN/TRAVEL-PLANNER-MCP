@@ -1,7 +1,5 @@
 streamlit
-langchain==0.2.16
-langchain-core==0.2.43
-langchain-classic
+langchain
 langchain-groq
 langchain-mcp-adapters
 python-dotenv
