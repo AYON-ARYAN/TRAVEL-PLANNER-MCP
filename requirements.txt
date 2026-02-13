@@ -1,7 +1,8 @@
 streamlit
-langchain
+langchain==0.2.16
+langchain-core==0.2.43
+langchain-classic
 langchain-groq
 langchain-mcp-adapters
-langchain-classic
 python-dotenv
 nest_asyncio
